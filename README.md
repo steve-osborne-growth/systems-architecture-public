@@ -44,7 +44,7 @@ Work built outside of Trimble: a business I owned and operated, and freelance sy
 |---|---|---|---|---|---|
 | [EXT-01 · King's Escape Room](./EXT-01-escape-room/) | Owner / Operator | Business Systems | Owner-dependent business with no path to autonomous operation | Arduino, C++, CCTV, SEO, PHP, JavaScript, process systems | $300K+ annual revenue. Transitioned from owner-operator to absent owner. Sold in full. |
 | [EXT-02 · MindBody Replacement](./EXT-02-mindbody-replacement/) | Freelance | Full-Stack / SaaS Replacement | $900/month SaaS that never fit how the business actually ran | WordPress, WooCommerce, Amelia, PHP, JavaScript, Stripe | Full SaaS replacement at hosting cost only. Session cap enforcement across all booking types. |
-| [EXT-03 · GBP Automation (Pre-AI)](./EXT-03-gbp-automation-pre-ai/) | Freelance | Content Automation | SEO team spending 16 hours per person per month on manual Google Business Profile posts | JavaScript, Google Sheets, regex, third-party posting API | Reduced to 30 minutes per month. $24K in monthly recurring revenue within six months. |
+| [EXT-03 · GBP Automation (Pre-AI)](./EXT-03-gbp-automation-pre-ai/) | Digible | Content Automation | SEO team spending 16 hours per person per month on manual Google Business Profile posts | JavaScript, Google Sheets, regex, third-party posting API | Reduced to 30 minutes per month. $24K in monthly recurring revenue within six months. |
 
 ---
 
