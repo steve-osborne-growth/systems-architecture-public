@@ -1,3 +1,8 @@
+> 🔒 **This is the public version.** The full version includes live links to working systems and additional project detail.  
+> [Request full access →](mailto:steve_osborne@trimble.com?subject=Portfolio%20Full%20Access%20Request&body=Hi%20Steve%2C%0A%0APlease%20add%20me%20to%20the%20full%20portfolio.%0A%0AName%3A%20%0AGitHub%20username%3A%20%0ACompany%3A%20)
+
+---
+
 # Growth Systems Architect Portfolio
 
 I come from growth. Every system I have built has been in service of revenue, speed, or scale.
